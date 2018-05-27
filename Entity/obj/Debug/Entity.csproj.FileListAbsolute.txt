@@ -1,0 +1,5 @@
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetReportViewer\Entity\bin\Debug\Entity.dll
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetReportViewer\Entity\bin\Debug\Entity.pdb
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetReportViewer\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetReportViewer\Entity\obj\Debug\Entity.dll
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetReportViewer\Entity\obj\Debug\Entity.pdb

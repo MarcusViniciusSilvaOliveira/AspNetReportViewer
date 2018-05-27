@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetReportViewer", "AspNetReportViewer\AspNetReportViewer.csproj", "{A47B0428-3EB9-42BD-BFB3-38EBDEF80449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{CACC9CFA-6758-4C2C-90FE-5318B2DE1A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportCore", "ReportCore\ReportCore.csproj", "{483B0D21-A8E1-4718-B663-0BF8496BBF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47B0428-3EB9-42BD-BFB3-38EBDEF80449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47B0428-3EB9-42BD-BFB3-38EBDEF80449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47B0428-3EB9-42BD-BFB3-38EBDEF80449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47B0428-3EB9-42BD-BFB3-38EBDEF80449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACC9CFA-6758-4C2C-90FE-5318B2DE1A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACC9CFA-6758-4C2C-90FE-5318B2DE1A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACC9CFA-6758-4C2C-90FE-5318B2DE1A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACC9CFA-6758-4C2C-90FE-5318B2DE1A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483B0D21-A8E1-4718-B663-0BF8496BBF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483B0D21-A8E1-4718-B663-0BF8496BBF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483B0D21-A8E1-4718-B663-0BF8496BBF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483B0D21-A8E1-4718-B663-0BF8496BBF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
